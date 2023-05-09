@@ -1,0 +1,23 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "descricao": "Rosa",
+        "estoque": 10,
+        "valor": 10
+      },
+      {
+        "id": 2,
+        "descricao": "Girassol",
+        "estoque": 10,
+        "valor": 15
+      },
+      {
+        "id": 3,
+        "descricao": "Lirios",
+        "estoque": 10,
+        "valor": 5.25
+      }
+    ]
+  }
+  
